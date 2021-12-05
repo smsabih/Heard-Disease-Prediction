@@ -9,7 +9,8 @@ AUTHORS:
 Heart Disease Dataset - Classification Problem.
 
 FINAL PROJECT:
-Final_Project.ipynb
+Final_Project.ipynb - Code and implementation
+Group 1 - Final Project Report.docx - Detailed Report on the Project and Code
 
 Source of the dataset and link provided in the Final Project.
 
